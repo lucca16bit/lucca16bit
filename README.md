@@ -24,7 +24,6 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=typescript)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=python&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=light)](https://skills.thijs.gg)
@@ -36,6 +35,7 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 ### Learning
 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=typescript)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg)
 
