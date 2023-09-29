@@ -1,13 +1,6 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+## Hi there, I'm Lucas T. Gonçalves 👋
 
 
-- 🌱 I’m currently learning
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +10,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-# Lucas T. Gonçalves
 Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educativa e estou me formando em Análise de Desenvolvimento de Sistemas. Busco me especializar como Back-End Developer com foco em desenvolvimento cloud.
 
 
