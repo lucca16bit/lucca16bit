@@ -20,13 +20,6 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/luacc_minerva/)
 
 
-### Learning
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg)
-
-
 ### My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
@@ -38,6 +31,13 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 [![My Skills](https://skills.thijs.gg/icons?i=aws&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=github&theme=light)](https://skills.thijs.gg)
+
+
+### Learning
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma&theme=light)](https://skills.thijs.gg)
 
 
 ### To Learn
