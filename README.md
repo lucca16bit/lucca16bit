@@ -13,7 +13,7 @@
 Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educativa e estou me formando em Análise de Desenvolvimento de Sistemas. Busco me especializar como Back-End Developer com foco em desenvolvimento cloud.
 
 
-### Conect with me
+### Connect with me
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/lucaston2323)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:luaccminerva2323@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-t-gon%C3%A7alves/)
