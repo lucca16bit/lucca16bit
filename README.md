@@ -25,7 +25,7 @@
   <a href="https://www.dio.me/users/lucaston2323">
     <img src="https://lp.dio.me/wp-content/uploads/2023/04/diologo.png" style="width:48px; height: 48px;"/>
   </a>
-  <a href="lucaston2323@gmail.com">
+  <a href=mailto:lucaston2323@gmail.com>
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" style="width:53px; height: 53px;" />
   </a>
 </p>
