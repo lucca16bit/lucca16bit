@@ -11,6 +11,7 @@
 <div align="center">
 Hello Word, meu nome é Lucas e bem vindo ao meu GitHub ^^! Atualmente faço estágio na área de Informática Educativa e estou me formando em Análise de Desenvolvimento de Sistemas. Estou buscando me especializar como Full-Stack Developer, utilizando as linguagens Angular e Java. 
 
+</br>
 
 ### Conecte-se comigo!
 
@@ -32,35 +33,47 @@ Hello Word, meu nome é Lucas e bem vindo ao meu GitHub ^^! Atualmente faço est
 
 ### My Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,python,mysql,git,github,figma" />
-  </a>
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=angular&theme=dark)](https://angular.io/)
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![My Skills](https://skills.thijs.gg/icons?i=typescript)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://www.typescriptlang.org/docs/)
+[![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)](https://nodejs.org/en)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://www.python.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=dark)](https://dev.mysql.com/doc/)
+[![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/doc)
+[![My Skills](https://skills.thijs.gg/icons?i=github&theme=dark)](https://docs.github.com/pt)
+[![My Skills](https://skills.thijs.gg/icons?i=figma&theme=dark)](https://www.figma.com/)
+
 </br>
 
 ### Learning
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,maven,spring,aws" />
-  </a>
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=angular&theme=dark)](https://angular.io/)
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=dark)](https://dev.java/learn/)
+[![My Skills](https://skills.thijs.gg/icons?i=maven&theme=dark)](https://angular.io/)
+[![My Skills](https://skills.thijs.gg/icons?i=spring&theme=dark)](https://maven.apache.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=aws&theme=dark)](https://spring.io/projects/spring-boot)
+
 </br>
 
 ### To Learn
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,react,ruby,jquery,php,laravel" />
-  </a>
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=kotlin&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=jquery&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=laravel&theme=dark)](https://skills.thijs.gg)
+
+</br>
 
 ### GitHub Stats
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucc-Minerva&show_icons=true&theme=radical)
 
+</br>
 
 ### Meus Principais Projetos
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=To-Do-List_Java&theme=radical)](https://github.com/Lucc-Minerva/To-Do-List_Java)
