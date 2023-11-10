@@ -59,5 +59,5 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 
 ### Meus Principais Projetos
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=To-Do-List_Java&theme=radical)](https://github.com/Lucc-Minerva/To-Do-List_Java)
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Angular-Blog&theme=radical)]([https://github.com/Lucc-Minerva/Angular-Blog](https://github.com/Lucc-Minerva/Angular-Blog))
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Angular-HomeSantander&theme=radical)](https://github.com/Lucc-Minerva/Angular-HomeSantander)
 
