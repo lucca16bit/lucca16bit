@@ -9,9 +9,9 @@
 - ⚡ Fun fact: ... 
 -->
 <div align="center">
-Hello Word, meu nome é Lucas e bem vindo ao meu GitHub ^^! Atualmente faço estágio na área de Informática Educativa e estou me formando em Análise de Desenvolvimento de Sistemas. Estou buscando me especializar como Full-Stack Developer, utilizando as linguagens Angular e Java. 
+<p>Hello Word, meu nome é Lucas e bem vindo ao meu GitHub ^^! Atualmente faço estágio na área de Informática Educativa e estou me formando em Análise de Desenvolvimento de Sistemas. Estou buscando me especializar como Full-Stack Developer, utilizando as linguagens Angular e Java. </p>
 
-</br>
+<img src="https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif">
 
 ### Conecte-se comigo!
 
