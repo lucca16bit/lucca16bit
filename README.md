@@ -53,10 +53,11 @@ Olá! Me chamo Lucas. Atualmente faço estágio na área de Informática Educati
 [![My Skills](https://skills.thijs.gg/icons?i=laravel&theme=light)](https://skills.thijs.gg)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucc-Minerva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucc-Minerva&show_icons=true&theme=radical)
+
 
 ### Meus Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Lucc-Minerva/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=To-Do-List_Java&theme=radical)](https://github.com/Lucc-Minerva/To-Do-List_Java)
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Angular-Blog&theme=radical)](https://github.com/Lucc-Minerva/Angular-Blog)
 
