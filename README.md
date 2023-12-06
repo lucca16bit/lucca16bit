@@ -51,7 +51,7 @@ Seja bem-vindo ao meu mundo de cantinho e sinta-se à vontade para explorar meus
 [![My Skills](https://skills.thijs.gg/icons?i=cs&theme=dark)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![My Skills](https://skills.thijs.gg/icons?i=cpp&theme=dark)](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170)
 [![My Skills](https://skills.thijs.gg/icons?i=aws&theme=dark)](https://aws.amazon.com/pt/?nc2=h_lg)
-[![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)](https://nodejs.org/en)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://nodejs.org/en)
 
 
 ### Para aprender
