@@ -23,7 +23,7 @@ Seja bem-vindo ao meu mundo de cantinho e sinta-se à vontade para explorar meus
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/lucas-t-goncalves/)
 [![My Skills](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/luacc_minerva/)
 <a href="https://www.dio.me/users/lucaston2323">
-    <img src="https://lp.dio.me/wp-content/uploads/2023/04/diologo.png" style="width:48px; height: 48px;"/>
+    <img src="https://asset.brandfetch.io/idUQfJyQk7/idyak0b3YL.svg?updated=1694129912066" style="width:70px; margin: 0 auto;"/>
 </a>
 
 ### Minhas linguagens
