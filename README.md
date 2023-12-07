@@ -13,7 +13,7 @@
   
 Atualmente, estou trilhando o caminho para me tornar um Full-Stack Developer, focando em aprimorar minhas habilidades com as linguagens Angular e Java. 
 
-Seja bem-vindo ao meu mundo de cantinho e sinta-se à vontade para explorar meus repositórios ! 🚀✨ </p>
+Seja bem-vindo ao meu cantinho e sinta-se à vontade para explorar meus repositórios ! 🚀✨ </p>
 
 <img src="https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif">
 
