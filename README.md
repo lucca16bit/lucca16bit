@@ -9,8 +9,7 @@
 - ⚡ Fun fact: ... 
 -->
 <div align="center">
-<p>Hello World, meu nome é Lucas, estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional. Aqui no meu cantinho do GitHub, compartilho minha jornada e projetos.
-  
+<p>Hello World, meu nome é Lucas, estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional.
 Atualmente, estou trilhando o caminho para me tornar um Full-Stack Developer, focando em aprimorar minhas habilidades com as linguagens Angular e Java. 
 
 Seja bem-vindo ao meu cantinho e sinta-se à vontade para explorar meus repositórios ! 🚀✨ </p>
