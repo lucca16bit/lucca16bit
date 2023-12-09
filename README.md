@@ -16,15 +16,6 @@ Seja bem-vindo ao meu cantinho e sinta-se √† vontade para explorar meus reposit√
 
 <img src="https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif">
 
-### Conecte-se comigo!
-
-
-[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/lucas-t-goncalves/)
-[![My Skills](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/luacc_minerva/)
-<a href="https://www.dio.me/users/lucaston2323">
-    <img src="https://asset.brandfetch.io/idUQfJyQk7/idyak0b3YL.svg?updated=1694129912066" style="width:70px; margin: 0 auto;"/>
-</a>
-
 ### Minhas linguagens
 
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
