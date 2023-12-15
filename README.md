@@ -26,7 +26,6 @@ Seja bem-vindo ao meu cantinho e sinta-se √† vontade para explorar meus reposit√
 [![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)](https://nodejs.org/en)
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://www.python.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=dark)](https://dev.mysql.com/doc/)
-[![My Skills](https://skills.thijs.gg/icons?i=postgresql&theme=dark)](https://www.postgresql.org/docs/)
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/doc)
 [![My Skills](https://skills.thijs.gg/icons?i=github&theme=dark)](https://docs.github.com/pt)
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=dark)](https://www.figma.com/)
@@ -40,6 +39,7 @@ Seja bem-vindo ao meu cantinho e sinta-se √† vontade para explorar meus reposit√
 [![My Skills](https://skills.thijs.gg/icons?i=spring&theme=dark)](https://spring.io/)
 [![My Skills](https://skills.thijs.gg/icons?i=cs&theme=dark)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![My Skills](https://skills.thijs.gg/icons?i=cpp&theme=dark)](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170)
+[![My Skills](https://skills.thijs.gg/icons?i=postgresql&theme=dark)](https://www.postgresql.org/docs/)
 [![My Skills](https://skills.thijs.gg/icons?i=aws&theme=dark)](https://aws.amazon.com/pt/?nc2=h_lg)
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://nodejs.org/en)
 
