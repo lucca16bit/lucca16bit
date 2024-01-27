@@ -23,8 +23,7 @@ Seja bem-vindo ao meu cantinho e sinta-se √† vontade para explorar meus reposit√
 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![My Skills](https://skills.thijs.gg/icons?i=typescript)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=dark)](https://angular.io/)
-[![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)](https://nodejs.org/en)
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://www.python.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://dev.java/learn/)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=dark)](https://dev.mysql.com/doc/)
 [![My Skills](https://skills.thijs.gg/icons?i=postgresql&theme=dark)](https://www.postgresql.org/docs/)
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/doc)
@@ -33,7 +32,7 @@ Seja bem-vindo ao meu cantinho e sinta-se √† vontade para explorar meus reposit√
 ### Estou aprendendo
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=dark)](https://angular.io/)
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=dark)](https://dev.java/learn/)
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://dev.java/learn/)
 [![My Skills](https://skills.thijs.gg/icons?i=maven&theme=dark)](https://maven.apache.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=spring&theme=dark)](https://spring.io/)
 [![My Skills](https://skills.thijs.gg/icons?i=cs&theme=dark)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
