@@ -1,22 +1,14 @@
 
-<h1 align="center">Hello! I'm Lucas T. Gonçalves 👋</h1>
+<h1 align="center">Hello! I'm Lucas Gonçalves 👋</h1>
 <!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
 <div align="center">
-<p>Hello World, meu nome é Lucas, estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional.
-Estou buscando me tornar um Full-Stack Developer, focando em aprimorar minhas skills nas linguagens Angular e Java. 
+<p>Hello World!:Meu nome é Lucas,sou estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional. Tenho o desejo de me tornar um dev Full-Stack. 
 
 Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 
 <img src="https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif">
 
-### Minhas linguagens
+### My stacks
 
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 [![My Skills](https://skills.thijs.gg/icons?i=css)](https://www.typescriptlang.org/docs/)
@@ -24,12 +16,13 @@ Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 [![My Skills](https://skills.thijs.gg/icons?i=typescript)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://angular.io/)
 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://dev.java/learn/)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en)
 [![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=light)](https://dev.mysql.com/doc/)
 [![My Skills](https://skills.thijs.gg/icons?i=postgresql&theme=light)](https://www.postgresql.org/docs/)
 [![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/doc)
 
 
-### Estou aprendendo
+### Learning
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://angular.io/)
 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://dev.java/learn/)
@@ -38,10 +31,10 @@ Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 [![My Skills](https://skills.thijs.gg/icons?i=cs&theme=light)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![My Skills](https://skills.thijs.gg/icons?i=cpp&theme=light)](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170)
 [![My Skills](https://skills.thijs.gg/icons?i=aws&theme=light)](https://aws.amazon.com/pt/?nc2=h_lg)
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://nodejs.org/en)
 
 
-### Para aprender
+
+### To Learn
 
 [![My Skills](https://skills.thijs.gg/icons?i=kotlin&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
