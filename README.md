@@ -1,6 +1,5 @@
 
 <h1 align="center">Hello! I'm Lucas Gonçalves 👋</h1>
-<!-- 
 <div align="center">
 <p>Hello World!:Meu nome é Lucas,sou estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional. Tenho o desejo de me tornar um dev Full-Stack. 
 
