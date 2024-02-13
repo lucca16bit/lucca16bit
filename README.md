@@ -24,6 +24,7 @@ Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 ### Learning
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular&theme=light)](https://angular.io/)
+[![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://dev.java/learn/)
 [![My Skills](https://skills.thijs.gg/icons?i=maven&theme=light)](https://maven.apache.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=spring&theme=light)](https://spring.io/)
@@ -36,7 +37,6 @@ Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 ### To Learn
 
 [![My Skills](https://skills.thijs.gg/icons?i=kotlin&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=ruby&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=jquery&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=php&theme=light)](https://skills.thijs.gg)
