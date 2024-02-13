@@ -5,7 +5,7 @@
 
 Seja bem-vindo ao meu cantinho! 🚀✨ </p>
 
-<img src="https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif">
+<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
 ### My stacks
 
