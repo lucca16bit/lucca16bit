@@ -1,15 +1,23 @@
-
-<h1 align="center">Hi! I'm Lucas Gonçalves 👋</h1>
+<img align="right" height="320" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<h1 align="left">Lucas Gonçalves 👋</h1>
 <div align="center">
+  
+<div align="left">
 <p>
-  Hello World! Bem-vindo ao meu perfil! :D
-  
-  Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas e estagiário na área de Informática Educacional. Venho me especializando na área de devsenvolvimento Full-Stack. 
-  
-  Seja bem-vindo ao meu cantinho!✨
-</p>
+Hello World! Bem-vindo ao meu perfil! :D
 
-<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
+### Sobre mim
+Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas(último semestre) e atualmente faço estágio na área de Informática Educacional.
+</br>
+<strong>Meus hobbies</strong>: programação - games - animes - tocar guitarra
+</br>
+<strong>Meus interesses</strong>: tecnologia - astronomia - física
+</br>
+<strong>Objetivos</strong>: Dev. Full-Stack
+</p>
+</div>
+
+</br>
 
 ### My stacks
 
