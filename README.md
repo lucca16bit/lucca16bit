@@ -58,10 +58,4 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucc-Minerva&show_icons=true&theme=radical)
 
-## Meus Principais Projetos
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Java-Certification&theme=radical)](https://github.com/Lucc-Minerva/Java-Certification)
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Java-ToDoList&theme=radical)](https://github.com/Lucc-Minerva/Java-ToDoList)
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=React-AppNotes&theme=radical)](https://github.com/Lucc-Minerva/React-AppNotes)
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=Lucc-Minerva&repo=Angular-LeagueBlog&theme=radical)](https://github.com/Lucc-Minerva/Angular-LeagueBlog)
-
 </div>
