@@ -49,10 +49,6 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
   </a>
 </p>
 
-<div align="center">
-  <img height="120" src="https://pa1.aminoapps.com/6856/2065b9021e516be34de4612d1f2ffaf2d488edcf_hq.gif">
-</div>
-
 ## GitHub Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
