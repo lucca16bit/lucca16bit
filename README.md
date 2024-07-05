@@ -28,7 +28,7 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,typescript,java,python,nodejs,mysql,postgresql,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,angular,react,html,css,python,nodejs,mysql,postgresql,git,github&perline=9" />
   </a>
 </p>
 
