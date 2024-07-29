@@ -41,17 +41,9 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
   </a>
 </p>
 
-## To Learn
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,ruby,jquery" />
-  </a>
-</p>
-
 ## GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucc-Minerva&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucc-Minerva&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaByte&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaByte&show_icons=true&theme=radical)
 
 </div>
