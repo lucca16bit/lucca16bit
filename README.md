@@ -43,7 +43,7 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
 
 ## GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaByte&layout=donut&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaByte&show_icons=true&theme=radical)
+![luccaByte GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaByte&hide=contribs&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaByte&layout=compact&theme=radical)](https://github.com/Lucc-Minerva/Lucc-Minerva)
 
 </div>
