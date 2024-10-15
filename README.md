@@ -22,8 +22,6 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
 </br>
 </br>
 
-<img align="center" height="40" src="https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif">
-
 ## My stacks
 
 <p align="left">
@@ -37,7 +35,7 @@ Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (úl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,java,c,cpp,nodejs,spring,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,spring,aws,docker" />
   </a>
 </p>
 
