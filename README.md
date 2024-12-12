@@ -1,41 +1,49 @@
 
-<h1 align="left">💻Lucas Gonçalves</h1>
-<img align="right" height="260" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
-<div align="left">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=9858F0&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Lucas+Gonçalves;Hi,+I'm+Back-End+Developer;Hi,+I'm+Front-End+Developer;Always+learning+new+things"></a>
   
+<h1>Sobre mim</h1>
+</p>
+<img align="right" height="290" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif">
 <div align="left">
-<p>
-Hello World! Seja bem-vindo ao meu perfil! :D
-  
-### Sobre mim
-Meu nome é Lucas, sou estudante de Análise de Desenvolvimento de Sistemas (último semestre) e atualmente faço estágio na área de Informática Educacional.
+Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência de 2 anos como estagiário como monitor de laboratório de informática. Tenho paixão pela tecnologia e por desenvolvimento web/software, especialmente em front-end com React e Angular, e estou aprimorando minhas habilidades em back-end com Java/Spring Boot.
 </br>
 </br>
-<strong>Meus hobbies</strong>: programação - games - animes - tocar guitarra
+<strong>⚡Hobbies</strong>: programação - games - animes - tocar guitarra
 </br>
-<strong>Meus interesses</strong>: tecnologia - astronomia - física
+<strong>🌱Interesses</strong>: tecnologia - música - astronomia - física
 </br>
-<strong>Objetivos</strong>: Dev. Full-Stack
+<strong>🔭Àrea de estudo</strong>: Full-Stack Developer, Cloud Computing, Web
 </p>
 </div>
 
+<a href="https://www.linkedin.com/in/lucas-t-goncalves/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/lucca16bit" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/lucca_16bit/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
 </br>
 </br>
 
-## My stacks
+<h2>My Skills</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,angular,react,html,css,python,nodejs,mysql,postgresql,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,angular,react,html,css,python,mysql,postgresql,git,github&perline=9" />
   </a>
 </p>
 
 
-## Learning
+<h2>Learning</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,spring,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=next,spring,aws,docker" />
   </a>
 </p>
 
