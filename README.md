@@ -4,9 +4,9 @@
   
 <h1>Sobre mim</h1>
 </p>
-<img align="right" height="310" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif">
+<img align="right" height="320" src="https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif">
 <div align="left">
-Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência de 2 anos como estagiário como monitor de laboratório de informática. Tenho paixão pela tecnologia e por desenvolvimento web/software, especialmente em front-end com React e Angular, e estou aprimorando minhas habilidades em back-end com Java/Spring Boot.
+Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência de 2 anos como estagiário em monitor de laboratório de informática. Tenho paixão pela tecnologia e por desenvolvimento web/software, especialmente em front-end com React e Angular, e estou aprimorando minhas habilidades em back-end com Java/Spring Boot.
 </br>
 </br>
 <strong>⚡Hobbies</strong>: programação - games - animes - tocar guitarra
