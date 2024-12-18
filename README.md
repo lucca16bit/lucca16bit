@@ -34,7 +34,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, com experiência de 2 an
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,angular,react,html,css,python,mysql,postgresql,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,angular,react,html,css,mysql,postgresql,git,github&perline=9" />
   </a>
 </p>
 
