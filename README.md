@@ -11,31 +11,27 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 </br>
 <p>
 
-<div>
-  <p>
+<ul>
+  <li>
     <strong>🌟Hobbies</strong>: games, animes, séries, tocar guitarra
-  </p>
-  <p>
+  </li>
+  <li>
     <strong>✨Interesses</strong>: tecnologia, música, astronomia, física
-  </p>
-  <p>
+  </li>
+  <li>
     <strong>🛠️Área de estudo</strong>: Back-End, Front-End, Cloud Computing, Web Development
-  </p>
-</div>
+  </li>
+</ul>
 
 </br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-t-goncalves/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://x.com/lucca16bit" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/lucca_16bit/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-</p>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-t-goncalves/)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lucca16bit)
+[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca_16bit/)
+
+</div>
 </br>
 
 ## 🛠️ My Skills
@@ -84,24 +80,27 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca16bit&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons" 
-    height="200em"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca16bit&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons" 
+      height="200em"
+    />
+  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
+      media="(prefers-color-scheme: dark)"
+      height="200em"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
+    />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
-    media="(prefers-color-scheme: dark)"
-    height="200em"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
-  />
-</picture>
+</div>
+
