@@ -56,7 +56,7 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=aws,docker,hibernate,git,github,idea,vscode,visualstudio,windows,linux" 
+      src="https://skillicons.dev/icons?i=aws,docker,hibernate,git,github,idea,vscode,visualstudio,postman,windows,linux" 
     />
   </a>
 </p>
@@ -66,7 +66,7 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=next,rabbitmq,kafka,azure,googlecloud" 
+      src="https://skillicons.dev/icons?i=kotlin,next,rabbitmq,kafka,azure,googlecloud" 
     />
   </a>
 </p>
