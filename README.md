@@ -81,12 +81,10 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca16bit&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons" 
       height="200em"
     />
-  </a>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
