@@ -11,25 +11,20 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
 </br>
 <p>
 
-<ul>
-  <li>
-    <strong>🌟Hobbies</strong>: games, animes, séries, tocar guitarra
-  </li>
-  <li>
-    <strong>✨Interesses</strong>: tecnologia, música, astronomia, física
-  </li>
-  <li>
-    <strong>🛠️Área de estudo</strong>: Back-End, Front-End, Cloud Computing, Web Development
-  </li>
-</ul>
+<strong>🌟Hobbies</strong>: games, animes, séries, tocar guitarra
+
+<strong>✨Interesses</strong>: tecnologia, música, astronomia, física
+
+<strong>🛠️Área de estudo</strong>: Back-End, Front-End, Cloud Computing, Web Development
+
 
 </br>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-t-goncalves/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgoncalvesjava@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lucca16bit)
-[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca_16bit/)
 
 </div>
 </br>
@@ -99,6 +94,19 @@ Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas
       src="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
     />
   </picture>
+
+</div>
+
+## 📍Encontre-me
+
+<div align="center">
+
+
+
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ahdmi0hch7me3l43cz6bfr619?si=8dbb8bc4fc8648c4)
+[![lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/lucca16bit)
+[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca_16bit/)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lucca_16bit/)
 
 </div>
 
