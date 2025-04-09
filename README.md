@@ -6,16 +6,20 @@
 
 # 💻 Sobre mim
 
-Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas. Atualmente, estou atuando voluntariamente como desenvolvedor front-end para a ONG [@gruponosdomorro](https://www.instagram.com/gruponosdomorrooficial/) onde sou responsável por desenvolver todo o front da página da ONG. Minha jornada na tecnologia começou como estagiário, atuando por 2 anos como monitor de laboratório de informática. Durante esse tempo, tive a oportunidade de oferecer suporte técnico a alunos e professores, além de colaborar com a equipe de analistas para tornar a tecnologia mais acessível a todos. Hoje, estou sempre explorando novas tecnologias, aprimorando minhas habilidades no desenvolvimento full-stack e me aprofundando em áreas como Cloud Computing e DevOps.
-</br>
+Olá! Meu nome é Lucas e sou graduado em Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia começou como estagiário, atuando por 2 anos como monitor de laboratório de informática. Durante esse tempo, tive a oportunidade de oferecer suporte técnico a alunos e professores, além de colaborar com a equipe de analistas para tornar a tecnologia mais acessível a todos. Hoje, estou sempre explorando novas tecnologias, aprimorando minhas habilidades no desenvolvimento full-stack e me aprofundando em áreas como Cloud Computing e DevOps.
 </br>
 <p>
-
+<ul>
+  <li>
 <strong>🌟Hobbies</strong>: games, animes, séries, tocar guitarra
-
-<strong>✨Interesses</strong>: tecnologia, música, astronomia, física
-
-<strong>🛠️Área de estudo</strong>: Back-End, Front-End, Cloud Computing, Web Development
+  </li>
+  <li>
+      <strong>✨Interesses</strong>: tecnologia, música, astronomia, física
+  </li>
+  <li>
+    <strong>🛠️Área de estudo</strong>: Back-End, Front-End, Cloud Computing, Web Development
+  </li>
+</ul>
 
 
 </br>
